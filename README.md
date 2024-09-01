@@ -1,5 +1,5 @@
 # Vide Compressor Scirpt in Python
-Python script that runs FFMPEG to compress videos inside a main folder directory.
+Python script that runs FFMPEG to compress videos.
 
 Run the following command to run the script:
 ```bash
